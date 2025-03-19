@@ -22,4 +22,10 @@ CSS (Flexbox & Grid for layout, animations for flipping effect)
 
 PokéAPI for data fetching
 
+Credits
+
+Pokémon data provided by PokéAPI
+
+Pokémon card back image sourced from https://www.deviantart.com/devin745/art/Pokemon-Card-Back-Image-540137206
+
 
